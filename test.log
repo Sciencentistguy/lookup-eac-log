@@ -1,0 +1,204 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+EAC extraction logfile from 30. May 2009, 17:27
+Aerosmith / O, Yeah! - Ultimate Aerosmith Hits [Disc 1]
+Used drive  : LITE-ON DVDRW LH-20A1S  Adapter: 0  ID: 0
+Read mode              : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : Yes
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks  : No
+Null samples used in CRC calculations      : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                        : High
+Add ID3 tag                    : No
+Command line compressor        : C:\Program Files (x86)\FLAC\flac.exe
+Additional command line options : -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+    Track |  Start  |  Length  | Start sector | End sector
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:26.05 |        0    |    19954 
+        2  |  4:26.05 |  4:25.07 |    19955    |    39836 
+        3  |  8:51.12 |  3:53.25 |    39837    |    57336 
+        4  | 12:44.37 |  5:25.50 |    57337    |    81761 
+        5  | 18:10.12 |  3:39.55 |    81762    |    98241 
+        6  | 21:49.67 |  2:14.28 |    98242    |  108319 
+        7  | 24:04.20 |  4:35.05 |    108320    |  128949 
+        8  | 28:39.25 |  3:21.22 |    128950    |  144046 
+        9  | 32:00.47 |  4:40.10 |    144047    |  165056 
+      10  | 36:40.57 |  3:45.63 |    165057    |  181994 
+      11  | 40:26.45 |  4:23.02 |    181995    |  201721 
+      12  | 44:49.47 |  5:07.53 |    201722    |  224799 
+      13  | 49:57.25 |  4:24.50 |    224800    |  244649 
+      14  | 54:22.00 |  5:28.30 |    244650    |  269279 
+      15  | 59:50.30 |  5:23.12 |    269280    |  293516 
+      16  | 65:13.42 |  5:12.03 |    293517    |  316919 
+
+Track  1
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Mama Kin.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 3DDAEF78
+    Copy CRC 3DDAEF78
+    Accurately ripped (confidence 39)  [4C811AF7]
+    Copy OK
+
+Track  2
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Dream On.wav
+    Peak level 97.7 %
+    Track quality 99.9 %
+    Test CRC A52BF671
+    Copy CRC A52BF671
+    Cannot be verified as accurate (confidence 42)  [CB8AE75E], AccurateRip returned [DB5F2195]
+    Copy OK
+
+Track  3
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Same Old Song And Dance.wav
+    Peak level 97.7 %
+    Track quality 99.9 %
+    Test CRC 00E0C61A
+    Copy CRC 00E0C61A
+    Accurately ripped (confidence 40)  [26C86E44]
+    Copy OK
+
+Track  4
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Seasons Of Wither.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 0A3AA5F2
+    Copy CRC 0A3AA5F2
+    Accurately ripped (confidence 41)  [D2659984]
+    Copy OK
+
+Track  5
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Walk This Way.wav
+    Peak level 92.3 %
+    Track quality 100.0 %
+    Test CRC 094B625A
+    Copy CRC 094B625A
+    Accurately ripped (confidence 40)  [919F0CFA]
+    Copy OK
+
+Track  6
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Big Ten Inch Record.wav
+    Peak level 97.7 %
+    Track quality 98.5 %
+    Test CRC 5811F2C2
+    Copy CRC 68E6EB8B
+    Cannot be verified as accurate (confidence 39)  [8427D5CE], AccurateRip returned [20A4343A]
+    Copy OK
+
+Track  7
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Sweet Emotion.wav
+    Peak level 97.7 %
+    Track quality 99.9 %
+    Test CRC 8E0D82C2
+    Copy CRC 8E0D82C2
+    Accurately ripped (confidence 39)  [4F00A4D3]
+    Copy OK
+
+Track  8
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Last Child.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 3E5027AA
+    Copy CRC 3E5027AA
+    Accurately ripped (confidence 40)  [B3E8F6D6]
+    Copy OK
+
+Track  9
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Back In The Saddle.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 0CDC3D41
+    Copy CRC 0CDC3D41
+    Accurately ripped (confidence 41)  [AAD0DCF8]
+    Copy OK
+
+Track 10
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Draw The Line.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 5A70B0E6
+    Copy CRC 5A70B0E6
+    Accurately ripped (confidence 40)  [BFEB72BA]
+    Copy OK
+
+Track 11
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Dude (Looks Like A Lady).wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC EF779749
+    Copy CRC EF779749
+    Accurately ripped (confidence 41)  [6ECDA9BC]
+    Copy OK
+
+Track 12
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Angel.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 2AC6D6DA
+    Copy CRC 2AC6D6DA
+    Accurately ripped (confidence 41)  [00A8B3BF]
+    Copy OK
+
+Track 13
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Rag Doll.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC D564EF0A
+    Copy CRC D564EF0A
+    Accurately ripped (confidence 40)  [EF117373]
+    Copy OK
+
+Track 14
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Janie's Got A Gun.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 02110E0D
+    Copy CRC 02110E0D
+    Accurately ripped (confidence 41)  [4363D441]
+    Copy OK
+
+Track 15
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - Love In An Elevator.wav
+    Peak level 97.7 %
+    Track quality 100.0 %
+    Test CRC 9C6411AF
+    Copy CRC 9C6411AF
+    Accurately ripped (confidence 39)  [120BB637]
+    Copy OK
+
+Track 16
+    Filename D:\Aerosmith - O, Yeah! - Ultimate Aerosmith Hits [Disc 1] - What It Takes.wav
+    Peak level 97.7 %
+    Track quality 99.9 %
+    Test CRC 93869D75
+    Copy CRC 93869D75
+    Accurately ripped (confidence 38)  [92F42A79]
+    Copy OK
+
+14 track(s) accurately ripped
+ 2 track(s) could not be verified as accurate
+Some tracks could not be verified as accurate
+No errors occurred
+End of status report
+
+[!--sizeo:1--][span style=\"font-size:8pt;line-height:100%\"][!--/sizeo--]Moderation: Encapsulated log in a codebox.  Please remember to do this in future posts.[/size]
+
+    Last Edit: 2009-05-31 17:10:02 by greynol
+
+    twostar
+    [*][*][*][*]
+
+Need help explaination of EAC log file
+Reply #1 – 2009-05-31 08:19:58
+Your rips are ok if
